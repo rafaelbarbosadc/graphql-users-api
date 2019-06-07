@@ -1,8 +1,8 @@
-##GraphQL Api
+## GraphQL Api
 ![alt text](http://www.impacta.com.br/blog/wp-content/uploads/2018/03/GraphQL_arthurMoro.jpg)
 A simple GraphQL API that retrieves users on a `user.json` file.
 
-##Routes
+## Routes
 
 You can try these routes:
 
