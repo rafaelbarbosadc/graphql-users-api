@@ -1,5 +1,5 @@
 ## GraphQL Api
-![alt text](http://www.impacta.com.br/blog/wp-content/uploads/2018/03/GraphQL_arthurMoro.jpg)
+![alt text](http://blog.justdigital.com.br/wp-content/uploads/2018/07/1_EOMP0V69RZ5xChG5pRoFyA.png)
 A simple GraphQL API that retrieves users on a `user.json` file.
 
 ## Routes
